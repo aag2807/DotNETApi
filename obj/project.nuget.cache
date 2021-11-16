@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "40Yd+fYyrpChePlU+VQvL+JbVrBS86FeHak+sG4Sk/rgeKTOshJ0v2M2xQvYcoY8chXhSR3JzePI5go4pT2Bmw==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/net/Hotel/Catalog/build.proj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.2/microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
