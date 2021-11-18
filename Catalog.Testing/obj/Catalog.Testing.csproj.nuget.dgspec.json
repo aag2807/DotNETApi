@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Documents/net/Hotel/Catalog/Catalog.Testing/Catalog.Testing.csproj": {}
+    "/home/alvaro/Documents/net/DotNETApi/Catalog.Testing/Catalog.Testing.csproj": {}
   },
   "projects": {
-    "/Users/admin/Documents/net/Hotel/Catalog/Catalog.Testing/Catalog.Testing.csproj": {
+    "/home/alvaro/Documents/net/DotNETApi/Catalog.Testing/Catalog.Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Documents/net/Hotel/Catalog/Catalog.Testing/Catalog.Testing.csproj",
+        "projectUniqueName": "/home/alvaro/Documents/net/DotNETApi/Catalog.Testing/Catalog.Testing.csproj",
         "projectName": "Catalog.Testing",
-        "projectPath": "/Users/admin/Documents/net/Hotel/Catalog/Catalog.Testing/Catalog.Testing.csproj",
-        "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Documents/net/Hotel/Catalog/Catalog.Testing/obj/",
+        "projectPath": "/home/alvaro/Documents/net/DotNETApi/Catalog.Testing/Catalog.Testing.csproj",
+        "packagesPath": "/home/alvaro/.nuget/packages/",
+        "outputPath": "/home/alvaro/Documents/net/DotNETApi/Catalog.Testing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "/home/alvaro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/admin/Documents/net/Hotel/Catalog/Catalog/Catalog.csproj": {
-                "projectPath": "/Users/admin/Documents/net/Hotel/Catalog/Catalog/Catalog.csproj"
+              "/home/alvaro/Documents/net/DotNETApi/Catalog/Catalog.csproj": {
+                "projectPath": "/home/alvaro/Documents/net/DotNETApi/Catalog/Catalog.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -86,21 +90,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/admin/Documents/net/Hotel/Catalog/Catalog/Catalog.csproj": {
+    "/home/alvaro/Documents/net/DotNETApi/Catalog/Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Documents/net/Hotel/Catalog/Catalog/Catalog.csproj",
+        "projectUniqueName": "/home/alvaro/Documents/net/DotNETApi/Catalog/Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "/Users/admin/Documents/net/Hotel/Catalog/Catalog/Catalog.csproj",
-        "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Documents/net/Hotel/Catalog/Catalog/obj/",
+        "projectPath": "/home/alvaro/Documents/net/DotNETApi/Catalog/Catalog.csproj",
+        "packagesPath": "/home/alvaro/.nuget/packages/",
+        "outputPath": "/home/alvaro/Documents/net/DotNETApi/Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "/home/alvaro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -151,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
